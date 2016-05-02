@@ -1,3 +1,19 @@
+
 .jumbotron{
-	background-image: url('DSC_0647.jpg');
+	display: flex;
+	align-items: center;
+	background-image: url('http://i.imgur.com/DrWpd3W.jpg');
+	background-size: cover;
+	height: 500px;
+	//text-shadow: 0.25px 0.25px 0.25px #000000;
+}
+
+.jumbotron h1{
+	color: #FFF;
+	margin: auto;
+}
+
+.jumbotron h3{
+	color: #FFF;
+	margin: auto;
 }
