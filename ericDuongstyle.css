@@ -1,11 +1,8 @@
 
 .jumbotron{
-	display: flex;
-	align-items: center;
 	background-image: url('http://i.imgur.com/DrWpd3W.jpg');
 	background-size: cover;
 	height: 100%;
-	//text-shadow: 0.25px 0.25px 0.25px #000000;
 }
 
 .jumbotron h1{
@@ -16,4 +13,8 @@
 .jumbotron h3{
 	color: #FFF;
 	margin: auto;
+}
+
+.menu {
+	
 }
