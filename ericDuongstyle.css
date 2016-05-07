@@ -6,21 +6,21 @@
 	height: 722px;
 }
 
-.jumbotron h1{
+.jumbotron h1,h3 {
 	color: #FFF;
 	text-align: center;
 }
 
-.jumbotron h3{
-	color: #FFF;
-	margin: auto;
-}
-
-.menu {
+.nav ul{
 	margin: 10px;
 	font-weight: 700;
+	text-align: center;
 }
 
+.nav li{
+	display: inline;
+
+}
 .header {
 	text-align: center;
 }
