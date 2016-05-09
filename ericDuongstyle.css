@@ -14,11 +14,11 @@
 .nav ul{
 	margin: 10px;
 	font-weight: 700;
-	text-align: center;
+	text-align: left;
 }
 
 .nav li{
-	display: inline;
+	
 
 }
 .header {
